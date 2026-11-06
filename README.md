@@ -47,10 +47,10 @@ I'm a passionate BCA graduate interested in software engineering, Java developme
 
 ## 🚀 Featured Projects
 
-### 🛒 ShopEase – E-commerce Web Application
+### 🛒 CraveNest – E-commerce Web Application
 - Developing a mini e-commerce application using Java and Spring Boot.
 - Working on product management, shopping cart, and order management.
-- Technologies: Java, Spring Boot, MySQL, Thymeleaf.
+- Technologies: Java, Spring Boot, MySQL, Thymeleaf, CSS, HTML.
 
 ### 🐟 SM Fisheries – Buying & Selling Portal
 - Developed a web-based portal for buying and selling fish products.
@@ -77,9 +77,9 @@ To grow as a Software Engineer, build reliable and user-friendly applications, s
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahana-s-kadekar-26275a423)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahana-s-kadekar)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/sahanakadekar2-droid)
+
 
 📧 **Email:** sahanakadekar2@gmail.com
 
