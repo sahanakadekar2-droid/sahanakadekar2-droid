@@ -52,9 +52,9 @@ I'm a passionate BCA graduate interested in software engineering, Java developme
 
 ## 🚀 Featured Projects
 
-### 🛒 CraveNest – E-commerce Web Application
+### 🛒 CraveNest – E-commerce Food Application
 - Developing a mini e-commerce application using Java and Spring Boot.
-- Working on product management, shopping cart, and order management.
+- Working on food management, food cart, and order management.
 - Technologies: Java, Spring Boot, MySQL, Thymeleaf, CSS, HTML.
 
 ### 🐟 SM Fisheries – Buying & Selling Portal
